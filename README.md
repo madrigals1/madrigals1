@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I am currently working as **Django Developer**.
-- 🤔 &nbsp; I am always open to 
+- 🤔 &nbsp; Currently working on my personal project [LeetCode BOT](https://github.com/madrigals1/leetcode_bot)
 - 🎓 &nbsp; Graduated Computer Science.
 - 💼 &nbsp; What I do:
   - Can make **API** and **Microservice** for everything🎉!!!
