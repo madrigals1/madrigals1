@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I am currently working as **Django Developer**.
+- 🔭 &nbsp; I am currently working as **Scala Developer**.
 - 🤔 &nbsp; Currently working on my personal project [LeetCode BOT](https://github.com/madrigals1/leetcode_bot)
 - 🎓 &nbsp; Graduated Computer Science.
 - 💼 &nbsp; What I do:
@@ -10,15 +10,15 @@
   - Making **chatbots** 🤖 for **Telegram** and **Discord**
   - ❤️ **Docker** 🐳 
   - Sometimes I develop **Games** 🎮
-  - I can do some [LeetCode](https://leetcode.com/madrigals1/)
+  - I can do some [LeetCode](https://leetcode.com/madrigals1/), primarily using **Python**
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | JavaScript | C#
-- 🌐 &nbsp; Django | React | HTML | CSS | Flask | Bootstrap
+- 💻 &nbsp; Python | JavaScript (TypeScript) | C# | Scala
+- 🌐 &nbsp; Django | React | Odoo
 - 🛢 &nbsp; PostgreSQL | MySQL
-- 🔧 &nbsp; PyCharm | VSCode | WebStorm
 - 🎮 &nbsp; Construct 2 | Unity | JavaFX
+- 🔘 &nbsp; Docker
 
 <br>
 
@@ -26,7 +26,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madrigals1&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/madrigals1/github-readme-stats)
+[![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madrigals1&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/madrigals1/github-readme-stats)
 
 > Funniest part is that I am maining **Python** haha!!!
 
