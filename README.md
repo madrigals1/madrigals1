@@ -3,7 +3,10 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I am currently working as **Scala Developer**.
-- 🤔 &nbsp; Currently working on my personal project [LeetCode BOT](https://github.com/madrigals1/leetcode_bot)
+- 🤔 &nbsp; My Top Projects:
+  - [LeetCode BOT](https://github.com/madrigals1/leetcode_bot)
+  - [VizAPI](https://github.com/madrigals1/vizapi)
+  - [Sokoban](https://github.com/madrigals1/sokoban)
 - 🎓 &nbsp; Graduated Computer Science.
 - 💼 &nbsp; What I do:
   - Can make **API** and **Microservice** for everything🎉!!!
