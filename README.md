@@ -18,7 +18,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | JavaScript (TypeScript) | C# | Scala
-- 🌐 &nbsp; Django | React | Odoo
+- 🌐 &nbsp; Django | React | Odoo | NodeJS
 - 🛢 &nbsp; PostgreSQL | MySQL
 - 🎮 &nbsp; Construct 2 | Unity | JavaFX
 - 🔘 &nbsp; Docker
