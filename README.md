@@ -1,4 +1,4 @@
-<h2> Hey there! I'm madrigals1. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm madrigals1. <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="25"></h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
