@@ -30,9 +30,7 @@
 
 </br>
 
-[![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madrigals1&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/madrigals1/github-readme-stats)
-
-> Funniest part is that I am maining **Python** haha!!!
+[![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madrigals1&layout=compact&text_color=daf7dc&bg_color=151515&hide=shaderlab,hlsl&langs_count=10)](https://github.com/madrigals1/github-readme-stats)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
