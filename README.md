@@ -3,6 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I am currently working as **Scala Developer**.
+- 👤 &nbsp; [My portfolio](https://madrigal.pro)
 - 🤔 &nbsp; My Top Projects:
   - [LeetCode BOT](https://github.com/madrigals1/leetcode_bot)
   - [VizAPI](https://github.com/madrigals1/vizapi)
