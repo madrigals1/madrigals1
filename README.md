@@ -41,6 +41,10 @@
 <a href="https://leetcode.com/madrigals1/" target="_blank" rel="noopener noreferrer"><img style="border: 1px solid gray;" src="https://user-images.githubusercontent.com/32040901/79929570-197c2480-8414-11ea-9358-c92a53916a7f.png"  width="50" /></a>
 </p>
 
+<script type="text/javascript">
+  alert("something");
+</script>
+
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=madrigals1" id="counter">
 </p>
