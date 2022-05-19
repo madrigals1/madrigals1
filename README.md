@@ -29,6 +29,8 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=madrigals1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="madrigals1's Github Stats">
 
+<img align="center" src="https://readme-stats-qjvzedcd2-madrigals1.vercel.app/api?username=madrigals1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="madrigals1's Github Stats">
+
 </br>
 
 [![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madrigals1&layout=compact&text_color=daf7dc&bg_color=151515&hide=shaderlab,hlsl&langs_count=10)](https://github.com/madrigals1/github-readme-stats)
