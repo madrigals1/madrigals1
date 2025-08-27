@@ -2,8 +2,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I am currently working as **Scala Developer**.
+- 🔭 &nbsp; Software Engineer at **Google**.
 - 👤 &nbsp; [My portfolio](https://madrigal.pro)
+- 👤 &nbsp; [My LinkedIn](https://www.linkedin.com/in/madrigals1/)
 - 🤔 &nbsp; My Top Projects:
   - [LeetCode BOT](https://github.com/madrigals1/leetcode_bot)
   - [VizAPI](https://github.com/madrigals1/vizapi)
@@ -20,7 +21,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | JavaScript (TypeScript) | C# | Scala
-- 🌐 &nbsp; Django | React | Odoo | NodeJS
+- 🌐 &nbsp; Django | React | Odoo | NodeJS | Angular
 - 🛢 &nbsp; PostgreSQL | MySQL
 - 🎮 &nbsp; Construct 2 | Unity | JavaFX
 - 🔘 &nbsp; Docker
